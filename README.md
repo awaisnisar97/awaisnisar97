@@ -8,7 +8,7 @@
     
 - <b>Azure sentinel tutorial map with live attack</b>
   - https://github.com/awaisnisar97/Azure-sentinel-tutorial-map-with-live-attacks
-    
-[linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
+  
+<b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
 
 
