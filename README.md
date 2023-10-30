@@ -1,16 +1,18 @@
-### Hi there 👋
+# Cybersecurity-portfolio
+<h1>Hi, I'm Awais! </h1> 
 
-<!--
-**awaisnisar97/awaisnisar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Applying filters to queries in SQL</b>
+  - (https://github.com/awaisnisar97/applying-filters-to-SQL-queries/tree/main)
+    
+- <b>Azure sentinel tutorial map with live attack</b>
+  - https://github.com/awaisnisar97/Azure-sentinel-tutorial-map-with-live-attacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+
