@@ -10,9 +10,6 @@
   - https://github.com/awaisnisar97/Azure-sentinel-tutorial-map-with-live-attacks
 
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
 
 
