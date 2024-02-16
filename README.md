@@ -7,10 +7,14 @@ I love technology and anything risk and security. I am building my Cybersecurity
 
 - <b>Applying filters to queries in SQL</b>
   - (https://github.com/awaisnisar97/applying-filters-to-SQL-queries/tree/main)
-    
+
 - <b>Azure sentinel tutorial map with live attack</b>
   - https://github.com/awaisnisar97/Azure-sentinel-tutorial-map-with-live-attacks
-  
+
+- <b>Vulnerability scanning</b>
+
+
+
 <b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
 
 
