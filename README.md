@@ -12,7 +12,7 @@ I love technology and anything risk and security. I am building my Cybersecurity
   - https://github.com/awaisnisar97/Azure-sentinel-tutorial-map-with-live-attacks
 
 - <b>Vulnerability scanning</b>
-
+ - https://github.com/awaisnisar97/Vulnerability-Scanning
 
 
 <b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
