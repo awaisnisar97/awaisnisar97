@@ -14,6 +14,8 @@ I love technology and anything risk and security. I am building my Cybersecurity
 - <b>Vulnerability scanning</b>
   - https://github.com/awaisnisar97/Vulnerability-Scanning
 
+- <b>Active Directory</b>
+  - 
 
 <b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
 
