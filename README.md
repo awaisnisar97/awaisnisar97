@@ -17,6 +17,9 @@ I love technology and anything risk and security. I am building my Cybersecurity
 - <b>Active Directory</b>
   - https://github.com/awaisnisar97/Active-Directory
 
+- <b> Wireshark Traffic analysis</b>
+  - https://github.com/awaisnisar97/Wireshark-PacketAnalysis
+    
 <b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
 
 
