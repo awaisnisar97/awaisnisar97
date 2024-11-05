@@ -23,7 +23,8 @@ I love technology and anything risk and security. I am building my Cybersecurity
 - <b>Threat Modelling Workshop</b>
   - https://github.com/awaisnisar97/Threat-Modelling-Workshop/tree/main
 
-<b>DevSecOps</b>
+- <b>DevSecOps</b>
   - https://github.com/awaisnisar97/DevSecOps-project/tree/main
+
 
 <b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
