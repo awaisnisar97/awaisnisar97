@@ -5,8 +5,14 @@ I love technology and anything risk and security. I am building my Cybersecurity
 
 <h3> Cybersecurity Projects:</h3>
 
-- <b>Applying filters to queries in SQL</b>
-  - (https://github.com/awaisnisar97/applying-filters-to-SQL-queries/tree/main)
+- <b>DevSecOps</b>
+  - https://github.com/awaisnisar97/DevSecOps-project/tree/main
+
+- <b>DevSecOps2</b>
+  - https://github.com/awaisnisar97/DevSecOps-2-project
+ 
+- <b>Threat Modelling Workshop</b>
+  - https://github.com/awaisnisar97/Threat-Modelling-Workshop/tree/main
 
 - <b>Azure sentinel tutorial map with live attack</b>
   - https://github.com/awaisnisar97/Azure-sentinel-tutorial-map-with-live-attacks
@@ -20,11 +26,8 @@ I love technology and anything risk and security. I am building my Cybersecurity
 - <b> Wireshark Traffic analysis</b>
   - https://github.com/awaisnisar97/Wireshark-PacketAnalysis
 
-- <b>Threat Modelling Workshop</b>
-  - https://github.com/awaisnisar97/Threat-Modelling-Workshop/tree/main
 
-- <b>DevSecOps</b>
-  - https://github.com/awaisnisar97/DevSecOps-project/tree/main
+
 
 
 <b> [linkedin]: https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/
