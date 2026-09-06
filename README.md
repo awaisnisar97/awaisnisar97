@@ -2,7 +2,7 @@
 <h1>Hi, I'm Awais! </h1> 
 <h2>👨‍💻 About Me </h2>
 👋 
-I’m building my way into DevOps by actually doing the work,  breaking things, fixing them, and figuring out how real systems run in production.
+I’m a Devops engineer,  breaking things, fixing them, and figuring out how real systems run in production.
 
 Right now I’m focused on Docker, CI/CD, cloud, and infrastructure as code. Most of what I know didn’t come from theory, it came from building projects, hitting errors, and learning how to solve them properly.
 
@@ -12,6 +12,9 @@ Still learning. Still shipping. 🚀
 
 <h3> Devops Projects:</h3>
 
+- <b>ECS Fargate project</b>
+  -  https://github.com/awaisnisar97/ECS-Threat-Composer
+  
 - <b>DevSecOps</b>
   - https://github.com/awaisnisar97/DevSecOps-project/tree/main
 
