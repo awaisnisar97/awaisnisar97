@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Awais Nisar
 
-### 🚀 DevOps Engineer | AWS | Terraform | Docker | CI/CD | DevSecOps
+### 🚀 DevOps Engineer | AWS | Terraform | Docker | CI/CD | Bash | Linux
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-awais-nisar-9879131b5/">
@@ -218,10 +218,6 @@ Learning and implementing:
 ---
 
 # 🎯 What I'm Working Towards
-
-I'm building towards a career focused on:
-
-**Cloud Infrastructure → DevOps → DevSecOps → Cloud Security**
 
 My goal is to continue building production style projects that demonstrate:
 
