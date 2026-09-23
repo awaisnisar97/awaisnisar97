@@ -240,12 +240,6 @@ My goal is to continue building production style projects that demonstrate:
 ---
 
 
-## 🚀 Contribution Activity
-
-<p align="center">
-  <img src="./assets/github-activity.svg" alt="GitHub Contribution Activity" width="100%">
-</p>
-
 # 🤝 Connect With Me
 
 <p align="left">
