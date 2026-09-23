@@ -239,14 +239,13 @@ My goal is to continue building production style projects that demonstrate:
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&theme=github-compact" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=My%20GitHub%20Activity&hide_border=true&area=true&theme=github-compact" 
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 
