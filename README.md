@@ -240,12 +240,15 @@ My goal is to continue building production style projects that demonstrate:
 ---
 
 
-## 📊 GitHub Activity
+## 🚀 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=awaisnisar97&custom_title=GitHub%20Contribution%20Activity&hide_border=true&area=true&theme=github-compact"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
-
 
 # 🤝 Connect With Me
 
